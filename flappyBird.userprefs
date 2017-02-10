@@ -1,9 +1,10 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tubes/MoveTube.js">
     <Files>
-      <File FileName="Assets/Scripts/Tubes/MoveTube.js" Line="14" Column="84" />
-      <File FileName="Assets/Scripts/Flappy/flappy.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Flappy/flappy.js" Line="41" Column="28" />
+      <File FileName="Assets/Scripts/Tubes/MoveTube.js" Line="18" Column="34" />
+      <File FileName="../first/Assets/Scripts/Lion/Lion.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
