@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tubes/MoveTube.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Flappy/flappy.js">
     <Files>
-      <File FileName="Assets/Scripts/Flappy/flappy.js" Line="41" Column="28" />
-      <File FileName="Assets/Scripts/Tubes/MoveTube.js" Line="18" Column="34" />
+      <File FileName="Assets/Scripts/Tubes/MoveTube.js" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Flappy/flappy.js" Line="58" Column="42" />
       <File FileName="../first/Assets/Scripts/Lion/Lion.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

@@ -24,5 +24,12 @@ function moveTube() {
 		var points = int.Parse(score.text) + 1;
 		score.text = points.ToString();
 		addScore = false;
+		incrementVelocityByScore(points * -1);
+		distanceBetweenColumns -= Vector2(Time.deltaTime, 0);
 	}
+}
+
+
+function incrementVelocityByScore(score) {
+	velocity += (Vector2(score, 0) * Time.deltaTime) * 1.5;
 }
